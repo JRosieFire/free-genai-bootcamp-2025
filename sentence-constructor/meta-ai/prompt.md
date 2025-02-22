@@ -19,6 +19,17 @@ Beginner, JLPT5
 -Start with showing the vocabulary table.
 - In the clues we should not provide the polite form of verbs, because the student needs to figure that out.
 - Make the sentence structure something that is conceptual like this: [Location] [Subject] [Verb], [Object] [Verb-past]?
+- Here is an example good vocabulary table. Your vocabulary table should look similar.
+
+| Japanese | Romaji | English |
+|----------|--------|---------|
+| クマ | kuma | bear |
+| ドア | doa | door |
+| ゴミ | gomi | garbage |
+| いる | iru | to exist (for living things) |
+| 出す | dasu | to put out/take out |
+
+
 
 ### Student Input
 
