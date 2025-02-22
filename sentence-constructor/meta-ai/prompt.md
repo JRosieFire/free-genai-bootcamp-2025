@@ -13,7 +13,7 @@ Beginner, JLPT5
 - Do not provide particles in the vocabulary, student needs to figure out the correct particles to use.
 - Provide words in their dictionary form, student needs to figure out the conjugations and tenses.
 - Provide a possible sentence structure.
-- The vocabulary table should only have the following columns: Japanese, Romaji, and English.
+- The vocabulary table should only have the following columns: Japanese, Romaji, English, Grammar Type.
 - Show Japanese characters in the table of vocabulary, do not leave blank or empty.
 - Do not use romaji when showing japanese text except in the table of vocabulary.
 -Start with showing the vocabulary table.
