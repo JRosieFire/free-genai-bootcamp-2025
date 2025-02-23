@@ -2,9 +2,9 @@
 
 
 ### Model
-- GPT-4
-- Using the free version of ChatGPT
-so I only have access to GPT-4
+
+- GPT-4-turbo
+- Using the free version of ChatGPT so I am not able to choose the GPT model.
 
 
 ### Prompting
