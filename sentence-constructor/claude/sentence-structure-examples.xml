@@ -1,0 +1,72 @@
+<sentence-structure-examples>
+<example>
+<sentence>I am a teacher.</sentence>
+<structure>[Subject] [Object]</structure>
+</example>
+
+<example>
+<sentence>The cat is at home.</sentence>
+<structure>[Subject] [Location]</structure>
+</example>
+
+<example>
+<sentence>I eat.</sentence>
+<structure>[Subject] [Verb-present]</structure>
+</example>
+
+<example>
+<sentence>This apple is red.</sentence>
+<structure>[Subject] [Adjective]</structure>
+</example>
+
+<example>
+<sentence>I buy a pencil.</sentence>
+<structure>[Subject] [Object] [Verb]</structure>
+</example>
+
+<example>
+<sentence>I wake up at 7 o'clock.</sentence>
+<structure>[Time] [Verb]</structure>
+</example>
+
+<example>
+<sentence>I talk with my friend.</sentence>
+<structure>[Subject] [Object] [Verb]</structure>
+</example>
+
+<example>
+<sentence>I eat quickly.</sentence>
+<structure>[Subject] [Adverb] [Verb]</structure>
+</example>
+
+<example>
+<sentence>I take a walk in the park.</sentence>
+<structure>[Subject] [Location] [Verb]</structure>
+</example>
+
+<example>
+<sentence>This water is cold.</sentence>
+<structure>[Subject] [Object] [Adjective]</structure>
+</example>
+
+<example>
+<sentence>The bird is black.</sentence>
+<structure>[Subject] [Object] [Adjective]</structure>
+</example>
+
+<example>
+<sentence>I saw the raven because it was loud.</sentence>
+<structure>[Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb]</structure>
+</example>
+
+<example>
+<sentence>Did you eat the food?</sentence>
+<structure>[Object] [Verb]</structure>
+</example>
+
+<example>
+<sentence>The raven is in the garden.</sentence>
+<structure>[Location] [Object] [Verb]</structure>
+</example>
+</sentence-structure-examples>
+
