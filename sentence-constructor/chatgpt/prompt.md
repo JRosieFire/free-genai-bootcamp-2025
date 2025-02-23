@@ -31,6 +31,24 @@ The formatted output will generally contain three parts:
 ### Sentence Structure
 
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+- Remember to consider beginner level sentence structures
+
+Here are examples of simple sentence structures
+- I am a teacher. - [Subject] [Object]
+- The cat is at home. - [Subject] [Location]
+- I eat. - [Subject] [Verb-present]
+- This apple is red. - [Subject] [Adjective]
+- I buy a pencil. - [Subject] [Object] [Verb]
+- I wake up at 7 o’clock. - [Time] [Verb]
+- I talk with my friend. - [Subject] [Object] [Verb]
+- I eat quickly. - [Subject] [Adverb] [Verb]
+- I take a walk in the park. - [Subject] [Location] [Verb]
+- This water is cold. - [Subject] [Object] [Adjective]
+- The bird is black. - [Subject] [Object] [Adjective]
+- I saw the raven because it was loud. - [Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb]
+- Did you eat the food? - [Object] [Verb]
+- The raven is in the garden. - [Location] [Object] [Verb]
 
 ### Clues and Considerations
 
