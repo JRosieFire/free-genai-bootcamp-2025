@@ -112,7 +112,7 @@ Here are examples of user input and assistant output. Pay attention to the score
         | いる | iru | to exist (for living things) |
         | 出す | dasu | to put out/take out |
         Sentence structure:
-        [Location] [Subject] [Verb], [Object] [Verb-past]?
+        [Location] [Subject] [Verb], [Object] [Verb]?
         Considerations:
         - This is a compound sentence with two parts connected by a comma
         - The first part is stating a location where something exists
