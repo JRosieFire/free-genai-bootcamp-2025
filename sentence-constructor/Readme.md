@@ -1,4 +1,4 @@
-## MetaAI Powered Assistant Guides 
+## MetaAI Powered Assistant Guide 
 
 ### Overview
 
