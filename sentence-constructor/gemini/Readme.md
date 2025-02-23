@@ -1,24 +1,25 @@
 ##  Google Gemini Powered Assistant Guide
 
+### Overview
+
+https://ai.google.dev/gemini-api/docs
+
 ### Model
+
 - Gemini Advance Flash 2.0
 - Paid version 
 
+https://ai.google.dev/gemini-api/docs/models/gemini#gemini-2.0-flash
 
 ### Prompting
 
-https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 
-#### Prompt engineering suggestions and techniques:
+There is no specific formatting to provide context.
 
-https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview#how-to-prompt-engineer
+According to the document above, the four main areas to consider when writing an effective prompt are:
 
-- Prompt generator
-- Be clear and direct
-- Use examples (multishot)
-- Let Claude think (chain of thought)
-- Use XML tags
-- Give Claude a role (system prompts)
-- Prefill Claude’s response
-- Chain complex prompts
-- Long context tips
+- Persona
+- Task
+- Context
+- Format 
